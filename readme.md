@@ -52,9 +52,9 @@ HTML5 + CSS3 + JavaScript
 просмотр баланса
 
 📤 Сдача
-<footer align="center">
+<div align="center">
 <p>Отправить ссылку на репозиторий GitHub
 или отправить лично в архиве ZIP.</p>
 <p>⏳Дедлайн: 14 дней </p>
-    <a >www.eyecodeuniversity.ru </a>
-</footer>
+    <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru </a>
+</div>
