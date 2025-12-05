@@ -15,13 +15,14 @@
 
 Класс BankAccount
 Создать класс:
+<pre>
 class BankAccount {
     constructor(owner, accountNumber, balance) { ... }
     deposit(amount) { ... }
     withdraw(amount) { ... }
     getInfo() { ... }
 }
-
+</pre>
 Свойства
 owner — владелец счёта
 accountNumber — номер счёта
